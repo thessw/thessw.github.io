@@ -2,6 +2,7 @@ title:            SSW
 tagline:          The Sassy Social Worker
 description:      Describe your website.
 canonical:        http://github.com/alexhagen/j/
+baseurl:          j/
 
 # Owner/author information
 owner:
