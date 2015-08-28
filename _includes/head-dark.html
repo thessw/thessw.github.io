@@ -20,8 +20,10 @@
 
 <!-- Type -->
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
+<link href='https://fonts.googleapis.com/css?family=Josefin+Slab:600,600italic' rel='stylesheet' type='text/css'>
 <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/entypo.css" media="all">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
 <!-- In order to use Calendas Plus, you must first purchase it. Then, create a font-face package using FontSquirrel.
 <link rel='stylesheet' href='{{ site.url }}/assets/cal.css' media='all' />
@@ -51,7 +53,7 @@
     <header class="site-header darken">
       <div class="wrap">
         <hgroup>
-          <h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
+          <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
         </hgroup>
         <a href="#nav" class="menu"><span class='icons'>☰</span></a>
         <nav role="navigation">
@@ -61,7 +63,11 @@
             </li>
 
             {% for link in site.links %}
+                {% if link.title %}
                 <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.baseurl }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+                {% else %}
+                <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.baseurl }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %} class="fa {{ link.icon }}"></a></li>
+                {% endif %}
             {% endfor %}
 
           </ul>

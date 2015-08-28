@@ -23,10 +23,10 @@ tools:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Justine Who?
+  - title: About
     url: /about
-  - title: LinkedIn
-    url: https://linkedin.com
+  - icon: fa-camera-retro
+    url: https://instagram.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
