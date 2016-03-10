@@ -1,6 +1,6 @@
 ---
-layout: home
+layout: post-index
+category: fitness
 permalink: /fitness/index.html
 title: "Fitness"
-tags: [blog, graphic design]
 ---
