@@ -1,5 +1,5 @@
 ---
-layout: post-index
+layout: home
 permalink: /social_work/index.html
 title: The Sassy Social Worker
 description: Justine is a sassy social worker!
