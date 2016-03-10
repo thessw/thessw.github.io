@@ -1,8 +1,8 @@
 title:            SSW
 tagline:          The Sassy Social Worker
 description:      Describe your website.
-canonical:        http://thessw.github.io
-baseurl:          http://thessw.github.io
+canonical:        https://thessw.github.io
+baseurl:          https://thessw.github.io
 
 # Owner/author information
 owner:
