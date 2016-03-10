@@ -2,7 +2,7 @@
 layout: post-no-feature
 title: "The Sassy Social Worker's Career History"
 description: "A little bit about me"
-category: articles
+category: social work
 tags: [about me, social work, career, job, history]
 ---
 
