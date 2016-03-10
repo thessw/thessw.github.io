@@ -25,9 +25,12 @@ tools:
 links:
   - title: About
     url: /about
-  - icon: fa-camera-retro
-    url: https://instagram.com
-    external: true
+  - title: Social Work
+    url: /social_work
+  - title: fitness
+    url: /fitness
+  - title: diy
+    url: /diy
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
