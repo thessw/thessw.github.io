@@ -53,7 +53,8 @@ how you feel while you are in the building. Does the staff and surroundings make
 you feel at home? Do you see call lights going unanswered? Always go with your
 gut. If you have that sinking feeling in your stomach or just can’t wait to get
 out of there, then it probably isn’t a facility you want your loved one
-residing.  Lastly, educate yourself on the admit process. If you have found a
+residing.
+ Lastly, educate yourself on the admit process. If you have found a
 facility you would like to proceed with, you will want to have them explain what
 the admit process looks like. This can be different based on whether your loved
 one is at home, in the hospital, or in another facility. Likely they will
@@ -63,11 +64,4 @@ paperwork from your loved ones primary care physician. Do not be surprised if
 they request a history and physical, medication list, and recent chest x ray.
 Also be aware that once your loved one has been admitted to the facility it may
 take a few weeks for them to adjust. It is the responsibility of the family to
-present to provide support, comfort, and reassurance.  Selecting a facility for
-your loved one does not have to be an overwhelming and daunting task. When
-searching for a facility to best meet your loved ones needs, it is prudent to
-educate yourself on your expectations and requirements before ever setting foot
-in a facility. By arming yourself with knowledge and an understanding, you will
-alleviate the stress and confusion of searching for placement.  Knowing that
-your loved one will undergo an adjustment period after placement will allow you
-to be empathetic and supportive during the process. 
+present to provide support, comfort, and reassurance.

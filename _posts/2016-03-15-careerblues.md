@@ -1,3 +1,4 @@
+---
 layout: post-no-feature
 title: "Career Blues"
 description: "Memory care. Should I stay or should I go?"
@@ -101,4 +102,4 @@ tags: [lost, social work, career, job, memory care]
   move on. God bless the next poor, energetic, and passionate soul to step into
   this role. So the job search begins. Maybe I will be able to find another path
   to continue my love for social work, or if all else fails, fulfill my dream of
-  being a stay at home girlfriend. 
+  being a stay at home girlfriend.
