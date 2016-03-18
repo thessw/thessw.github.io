@@ -3,7 +3,7 @@ layout: post-no-feature
 title: "A Day in the Life of a Memory Care Director"
 description: "AKA The Twilight Zone"
 category: social work
-tags:[day in the life, social work, career, job, memory care]
+tags: [day in the life, social work, career, job, memory care]
 ---
 
  There is no typical day for a memory care worker; every day is as unpredictable
