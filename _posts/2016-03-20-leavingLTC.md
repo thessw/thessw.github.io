@@ -74,16 +74,16 @@ tags: [job search, social work, long term care, job, memory care]
    hours and receive compensation for only 40? No, thank you. I knew it was time
    to leave. When my residents’ needs became overshadowed by the politics and
    company expectations I knew that I was no longer benefiting the building. I
-   needed to take back control over my career and happiness.  
+   needed to take back control over my career and happiness.
 
-    That’s exactly what I did. I began looking feverishly for a new job that
-    would put me back on the path I needed.  A path of opportunity, optimism,
-    and one that didn’t involve working nights, weekends, and holidays. AKA no
-    slave labor. Ever looked for a job while working full time?  You have to be
-    pretty damn sneaky.  I’m happy to say that after months of searching,
-    submitting applications, and suffering through interviews, I finally
-    accepted a position that I feel excited about. I feel certain that leaving
-    long term care is the right decision. Leaving long term care was a major
-    change, but one I feel certain about. Being wrapped up in a large
-    corporation that is more focused on revenue than residents is not the place
-    for me. Only took me a few years to find out; live and learn. 
+   That’s exactly what I did. I began looking feverishly for a new job that
+   would put me back on the path I needed.  A path of opportunity, optimism,
+   and one that didn’t involve working nights, weekends, and holidays. AKA no
+   slave labor. Ever looked for a job while working full time?  You have to be
+   pretty damn sneaky.  I’m happy to say that after months of searching,
+   submitting applications, and suffering through interviews, I finally
+   accepted a position that I feel excited about. I feel certain that leaving
+   long term care is the right decision. Leaving long term care was a major
+   change, but one I feel certain about. Being wrapped up in a large
+   corporation that is more focused on revenue than residents is not the place
+   for me. Only took me a few years to find out; live and learn.   
