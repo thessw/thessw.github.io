@@ -81,7 +81,7 @@ tags: [job search, social work, long term care, job, memory care]
     and one that didn’t involve working nights, weekends, and holidays. AKA no
     slave labor. Ever looked for a job while working full time?  You have to be
     pretty damn sneaky.  I’m happy to say that after months of searching,
-    submitting appplications, and suffering through interviews, I finally
+    submitting applications, and suffering through interviews, I finally
     accepted a position that I feel excited about. I feel certain that leaving
     long term care is the right decision. Leaving long term care was a major
     change, but one I feel certain about. Being wrapped up in a large
