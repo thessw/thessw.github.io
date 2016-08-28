@@ -13,4 +13,4 @@ tags: [running, fitness, training]
 
    Starting the weekend with a long rewarding run while most people are still tucked into their beds. The realization and satisfaction of crushing a goal that, at first, felt so daunting. That while situations, circumstances, and even people may be slowing crushing you....running is actively fighting to keep you free.
 
-    "I wanted to quit because I was suffering. That is not a good enough     reason"-Ted Corbitt
+  "I wanted to quit because I was suffering. That is not a good enough     reason"-Ted Corbitt
