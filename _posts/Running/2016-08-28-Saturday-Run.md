@@ -11,6 +11,6 @@ tags: [running, fitness, training]
 
     Off we go. Heavy humid air and the combined sound of 25 pairs of feet pounding the sidewalk. The sound of passion, commitment, and the unified drive for conquering 6 long miles. Stealing glances at my running watch to check for pace and distance. The thrill of passing a fellow runner who had outpaced you just weeks prior. Your mind screaming that this hill is too steep or the distance too far. Reminding yourself that your mind is just another obstacle to overcome. Every muscle crying in pain and lungs burning with every breath. Words of encouragement from peers and the burst of energy at the homestretch. High fives, deep breaths, and stretches.
 
-      Starting the weekend with a long rewarding run while most people are still tucked into their beds. The realization and satisfaction of crushing a goal that, at first, felt so daunting. That while situations, circumstances, and even people may be slowing crushing you....running is actively fighting to keep you free.
+     Starting the weekend with a long rewarding run while most people are still tucked into their beds. The realization and satisfaction of crushing a goal that, at first, felt so daunting. That while situations, circumstances, and even people may be slowing crushing you....running is actively fighting to keep you free.
 
       "I wanted to quit because I was suffering. That is not a good enough reason"-Ted Corbitt
